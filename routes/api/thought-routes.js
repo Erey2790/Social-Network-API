@@ -10,7 +10,6 @@ const {
 
 // Set up GET all and POST at /api/thought
 router
-router
 .route('/')
 .get(getAllThought)
 .post(createThought);

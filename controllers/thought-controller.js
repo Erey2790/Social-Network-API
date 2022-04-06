@@ -5,7 +5,7 @@ const thoughtController = {
     // get all thought
     getAllThought(req, res) {
         Thought.find({})
-          .then(dbUserData => res.json(dbUserData))
+          .then(dbThoughtData => res.json(dbThoughtData))
           .catch(err => {
             console.log(err);
             res.status(400).json(err);
