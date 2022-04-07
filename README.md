@@ -18,6 +18,7 @@ Start Server with npm start
     
 ## Usage/Examples
 
+![UserInsomnia-vid](https://user-images.githubusercontent.com/90116580/162135685-46adf192-8e80-4d29-b35a-357d4dd84ef9.gif)
 
 
 
